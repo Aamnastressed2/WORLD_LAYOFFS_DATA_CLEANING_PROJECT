@@ -1,9 +1,14 @@
 # 📊 Layoffs Data Cleaning Project (SQL)
 
+
+
 ## 📌 Overview
 This project focuses on cleaning and preparing a real-world layoffs dataset using SQL. The goal was to transform raw, inconsistent data into a structured and analysis-ready format.
 
 ---
+
+## DATASET
+Import layoffs.csv file using table data import wizard and import the data into the database first.
 
 ## 🛠️ Skills Used
 - Window Functions (ROW_NUMBER)
